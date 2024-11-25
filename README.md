@@ -11,7 +11,3 @@ This repository is a work in progress. All project content, including code and d
 - Market Basket Analysis recommendation engine
 - End-to-end mobile app with React Native and Firebase
 - RunPod deployment for LLMs and APIs
-
-📌 **Links**  
-- **Code in a Jiffy**: [YouTube Channel](https://www.youtube.com/@codeinajiffy)
-- **Kaggle Dataset**: [Coffee Shop Transactions](https://www.kaggle.com/datasets/ylchang/coffee-shop-transactions)
